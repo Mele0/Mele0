@@ -7,13 +7,13 @@ I'm currently a PhD researcher in Artificial Intelligence and Machine Learning i
 
 I've worked on several machine learning and biomedical research projects, including:
 
-- **EPC Mirage: Grid Decarbonisation can Overstate Retrofit Progress in Carbon-weighted Building Energy Ratings** — *Nature Energy*, under review (2026). Investigates how carbon-weighted building energy ratings can create apparent efficiency improvements without corresponding physical retrofit. [Paper](https://doi.org/10.2139/ssrn.7210198)
-
 - **SynLV: A Benchmark for Decision-Time Incompleteness in Longitudinal Survival Prediction** — *NeurIPS Datasets & Benchmarks*, under review (2026). A synthetic benchmark for evaluating longitudinal survival models when information available at decision time is incomplete.
 
-- **Evaluating Molecular Disparities in Breast Cancer Leveraging Machine Learning** — *Journal of Clinical Oncology*, 2024. Machine learning analysis of molecular disparities and heterogeneity in breast cancer. [Paper](https://doi.org/10.1200/JCO.2024.42.16_suppl.11096)
+- [EPC Mirage: Grid Decarbonisation can Overstate Retrofit Progress in Carbon-weighted Building Energy Ratings](https://doi.org/10.2139/ssrn.7210198) — *Nature Energy*, under review (2026). Investigates how carbon-weighted building energy ratings can create apparent efficiency improvements without corresponding physical retrofit. 
 
-- **Assessing Tree-Based Phenotype Prediction on the UK Biobank** — *IEEE BIBM*, 2023. Evaluation of tree-based machine learning approaches for high-dimensional phenotype prediction. [Paper](https://doi.org/10.1109/BIBM58861.2023.10385960)
+- [Evaluating Molecular Disparities in Breast Cancer Leveraging Machine Learning](https://doi.org/10.1200/JCO.2024.42.16_suppl.11096) — *Journal of Clinical Oncology*, 2024. Machine learning analysis of molecular disparities and heterogeneity in breast cancer.
+
+- [Assessing Tree-Based Phenotype Prediction on the UK Biobank](https://doi.org/10.1109/BIBM58861.2023.10385960) — *IEEE BIBM*, 2023. Evaluation of tree-based machine learning approaches for high-dimensional phenotype prediction.
 
 
 ## 🤗 HuggingFace Projects
