@@ -34,16 +34,6 @@ I've worked on several machine learning and biomedical data science projects fea
 - [Phenotype Prediction](https://github.com/Mele0/Phenotype_Prediction) - Machine learning pipeline for high-dimensional phenotype prediction using UK Biobank data. Includes XGBoost, LightGBM, CatBoost, feature selection, and SHAP-based model interpretation.
 
 
-## 🛠️ Tools
-
-- Python
-- R
-- SQL
-- C/C++
-- CUDA C++
-- Java
-
-
 ## 📫 How to Reach Me
 
 - [Email](alex.ramos24@imperial.ac.uk)
