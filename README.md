@@ -27,16 +27,10 @@ I've developed a dataset for stress-testing robustness on longitudinal and popul
 
 I've worked on several machine learning and biomedical data science projects featured on GitHub, including:
 
+- [Polybitrage](https://github.com/Mele0/Polybitrage) – Built a low-latency arbitrage engine for Polymarket and Kalshi, targeting cross-market pricing inefficiencies. Implemented N-leg arbitrage detection, depth-aware position sizing, and latency-sensitive execution with fill-or-kill orders and risk limits. Achieved sub-100 µs scan latency using Python, Rust, and Cython, with end-to-end latency monitoring via Prometheus/Grafana.
+
 - [COUGHVID](https://github.com/Mele0/COUGHVID) - Deep learning models for detecting upper respiratory tract infections from cough audio. Uses mel-spectrogram representations with CNN and LSTM architectures, with a focus on robustness to background noise and recording-device variability.
 
 - [CKD Patient Profiling](https://github.com/Mele0/CKD-Patient-Profiling) - Proteomics-based patient profiling pipeline for chronic kidney disease. Uses UMAP and Gaussian Mixture Models for clustering, Random Forest and LASSO for feature selection, and survival analysis for clinical outcome modelling.
 
 - [Phenotype Prediction](https://github.com/Mele0/Phenotype_Prediction) - Machine learning pipeline for high-dimensional phenotype prediction using UK Biobank data. Includes XGBoost, LightGBM, CatBoost, feature selection, and SHAP-based model interpretation.
-
-- [Polybitrage](https://github.com/Mele0/Polybitrage) – Built a low-latency arbitrage engine for Polymarket and Kalshi, targeting cross-market pricing inefficiencies. Implemented N-leg arbitrage detection, depth-aware position sizing, and latency-sensitive execution with fill-or-kill orders and risk limits. Achieved sub-100 µs scan latency using Python, Rust, and Cython, with end-to-end latency monitoring via Prometheus/Grafana.
-
-
-## 📫 How to Reach Me
-
-- [Email](alex.ramos24@imperial.ac.uk)
-- [LinkedIn](http://linkedin.com/in/alex-melendez-ramos)
