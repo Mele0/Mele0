@@ -34,3 +34,5 @@ I've worked on several machine learning and biomedical data science projects fea
 - [CKD Patient Profiling](https://github.com/Mele0/CKD-Patient-Profiling) - Proteomics-based patient profiling pipeline for chronic kidney disease. Uses UMAP and Gaussian Mixture Models for clustering, Random Forest and LASSO for feature selection, and survival analysis for clinical outcome modelling.
 
 - [Phenotype Prediction](https://github.com/Mele0/Phenotype_Prediction) - Machine learning pipeline for high-dimensional phenotype prediction using UK Biobank data. Includes XGBoost, LightGBM, CatBoost, feature selection, and SHAP-based model interpretation.
+
+- [ACDS](https://github.com/Mele0/ACDS) - Attitude Control and Determination System for a CubeSat, in portable C. Implements B-dot magnetorquer detumbling and a 3-axis quaternion PID pointing controller, with IGRF-13 geomagnetic-field and SGP4 orbit-propagation models for attitude determination.
